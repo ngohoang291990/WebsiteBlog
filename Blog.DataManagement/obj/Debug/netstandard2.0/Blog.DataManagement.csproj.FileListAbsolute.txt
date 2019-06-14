@@ -1,0 +1,9 @@
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\bin\Debug\netstandard2.0\Blog.DataManagement.deps.json
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\bin\Debug\netstandard2.0\Blog.DataManagement.dll
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\obj\Debug\netstandard2.0\Blog.DataManagement.csproj.CoreCompileInputs.cache
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\obj\Debug\netstandard2.0\Blog.DataManagement.AssemblyInfoInputs.cache
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\obj\Debug\netstandard2.0\Blog.DataManagement.AssemblyInfo.cs
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\obj\Debug\netstandard2.0\Blog.DataManagement.csprojAssemblyReference.cache
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+D:\2019\NetCore\Project\Blog.Website\Blog.DataManagement\obj\Debug\netstandard2.0\Blog.DataManagement.csproj.CopyComplete

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\2019\\NetCore\\Project\\Blog.Website\\Blog.DataManagement\\Blog.DataManagement.csproj": {}
+  },
+  "projects": {
+    "D:\\2019\\NetCore\\Project\\Blog.Website\\Blog.DataManagement\\Blog.DataManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2019\\NetCore\\Project\\Blog.Website\\Blog.DataManagement\\Blog.DataManagement.csproj",
+        "projectName": "Blog.DataManagement",
+        "projectPath": "D:\\2019\\NetCore\\Project\\Blog.Website\\Blog.DataManagement\\Blog.DataManagement.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\2019\\NetCore\\Project\\Blog.Website\\Blog.DataManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "mongodb.driver.core": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
